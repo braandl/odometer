@@ -1,3 +1,8 @@
+Modifications
+========
+
+Odometer did fail to show correct number cycling, when the start and target numbers had different signs. With this Patch, Odometer can flawlessly scroll from very negative Integer to positive Integer numbers.
+
 Odometer
 ========
 
